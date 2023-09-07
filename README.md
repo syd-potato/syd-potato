@@ -1,5 +1,5 @@
-我叫孙一钉，来自福建福州。
-喜欢手工、乒乓球、摄影，还有小动物!（★＞U＜★）
+- 我叫孙一钉，来自福建福州。
+- 喜欢手工、乒乓球、摄影，还有小动物!（★＞U＜★）
 
 <!--
 **syd-potato/syd-potato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
